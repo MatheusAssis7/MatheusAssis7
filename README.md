@@ -22,3 +22,5 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
+![snake gif](https://github.com/MatheusAssis7O/MatheusAssis7/blob/output/github-contribution-grid-snake.svg)
+![readme](https://github-readme-stats.vercel.app/pin/user=MatheusAssis7&repo=MatheusAssis7&theme=react)(https://github.com/your MatheusAssis7/MatheusAssis7)
