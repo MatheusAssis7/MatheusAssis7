@@ -3,9 +3,8 @@ Olá, Eu sou o Matheus Assis<br><br>Recem formado em Analise e Desenvolvimento d
 
 # 📊 Estatísticas do GitHub:
 
-![](https://nirzak-streak-stats.vercel.app/?user=MatheusAssis7&theme=shadow_red&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=MatheusAssis7&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusAssis7&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 
 ## 🌐 Redes Sociais:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/assisz77) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Assisz7) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:matheusassis825@gmail.com) 
