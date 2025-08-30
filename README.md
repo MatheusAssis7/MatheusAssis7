@@ -2,9 +2,7 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTl5dXQ3YmVicXhhdWM5eTJ2enljbnp0b2lzMngwdXg5bmljbnd2bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rkM07YUiJCx8lJCxVt/giphy.gif"  />
-</div>
+<img align="right" height="247" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTl5dXQ3YmVicXhhdWM5eTJ2enljbnp0b2lzMngwdXg5bmljbnd2bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rkM07YUiJCx8lJCxVt/giphy.gif"  />
 
 ###
 
@@ -78,5 +76,11 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MatheusAssis7/MatheusAssis7/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MatheusAssis7/MatheusAssis7/output/pacman-contribution-graph.svg">
 </picture>
+
+###
+
+<div align="center">
+  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+</div>
 
 ###
